@@ -1,9 +1,11 @@
 ## Multistage Estimators for Missing Covariates and Incomplete Outcomes
 
-This repository contains simulation code for the paper:
+This repository contains the simulation code for the paper:
 > Daniel Suen and Yen-Chi Chen. "Multistage Estimators for Missing Covariates and Incomplete Outcomes". 2021.
 
 The link to the arXiv manuscript is [here](https://arxiv.org/abs/2111.02367).
+
+In the paper, we study problems with multiple missing covariates and partially observed responses. We develop a new framework to handle complex missing covariate scenarios via inverse probability weighting, regression adjustment, and a multiply-robust procedure.
 
 ## File Guide
 
