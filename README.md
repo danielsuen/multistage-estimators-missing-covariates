@@ -7,7 +7,7 @@ The link to the arXiv manuscript is [here](https://arxiv.org/abs/2111.02367).
 
 ## File Guide
 
-binarytreat-simulations
+**binarytreat-simulations**
 
 | File | Description |
 | --- | ----------- |
@@ -17,7 +17,7 @@ binarytreat-simulations
 | plotting_causal_sample_size.R| plotting script for causal sample size simulation |
 | plotting_causal_sensitivity.R | plotting script for causal sensitivity analysis simulation |
 
-coxmodel-simulations 
+**coxmodel-simulations**
 
 | File | Description |
 | --- | ----------- |
